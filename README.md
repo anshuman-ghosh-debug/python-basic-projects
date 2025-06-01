@@ -16,3 +16,6 @@ you can customize:
 -multiple decks  
 -custom number of players  
 -prevents over-dealing of cards  
+
+### sample output:
+![sample output](card_dealer_sample.png)
