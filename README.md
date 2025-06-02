@@ -6,5 +6,5 @@ Just some basic Python projects to get started with the language.
 - run the file  
 
 # table of contents:
-- card_dealer.py  
-- To-do_list.py  
+- card_dealer  
+- To-do_list    
