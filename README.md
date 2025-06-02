@@ -8,20 +8,6 @@ Just some basic Python projects to get started with the language.
 # table of contents:
 - card_dealer.py  
 - To-do_list.py  
-## card_dealer.py:
-this python program is a card dealing simulation  
-you can customize:  
-- number of decks to be shuffled  
-- number of players  
-- number of cards per player  
-
-### features:  
-- multiple decks  
-- custom number of players  
-- prevents over-dealing of cards  
-
-### sample output:
-![sample output](card_dealer_sample.png)
 
 ## To-do_list.py:
 this python program creates a well organized To-do list with daily tasks and goals to be set for customizable dates.
