@@ -8,9 +8,12 @@ Just some basic Python projects to get started with the language.
 # table of contents:
 - card_dealer  
 - To-do_list
-- Basic-calculator
-
+- Basic-Calculator
+- Rock-Paper-Scissor-Lizard-Spock
+- password-strength-analyzer
 ## projects:
 - [Card dealer](card-dealer/)
 - [To-Do list](To-do_list/)
-- [Basic-calculator](Basic-calculator/)
+- [Basic-Calculator](Basic-Calculator/)
+- [Rock-Paper-Scissor-Lizard-Spock](Rock-Paper-Scissor-Lizard-Spock/)
+- [password-strength-analyzer](password-strength-analyzer/)
